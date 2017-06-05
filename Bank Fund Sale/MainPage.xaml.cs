@@ -25,12 +25,12 @@ namespace Bank_Fund_Sale
         public MainPage()
         {
             this.InitializeComponent();
-            var json_obj = new App()
-            { };
-            App.get_json_inf();
-                {
-                json_obj.get_json_inf;
-                }
+            //var json_obj = new App()
+            //{ };
+            //App.get_json_inf();
+            //    {
+            //    json_obj.get_json_inf;
+            //    }
             
         }
     }
